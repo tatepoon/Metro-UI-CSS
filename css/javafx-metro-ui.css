@@ -1,0 +1,168 @@
+/*
+ * Metro UI CSS for JavaFX
+ * Copyright 2012 TatePoon
+ * Licensed under the MIT Lilcense
+ */
+/*
+ * Metro UI CSS v 0.1.4
+ * Copyright 2012 Sergey Pimenov
+ * Licensed under the MIT Lilcense
+ *
+ * colors.less
+ *
+ * Rename to colors-var.less.
+ * Only variables are kept from the original file.
+ */
+/*
+ * Metro UI CSS for JavaFX
+ * Copyright 2012 TatePoon
+ * Licensed under the MIT Lilcense
+ * 
+ * colors.less
+ */
+.bg-color-blue {
+  -fx-background-color: #2d89ef !important;
+}
+.bg-color-blueLight {
+  -fx-background-color: #44a3aa !important;
+}
+.bg-color-blueDark {
+  -fx-background-color: #0a5ac2 !important;
+}
+.bg-color-green {
+  -fx-background-color: #00a300 !important;
+}
+.bg-color-greenLight {
+  -fx-background-color: #99b433 !important;
+}
+.bg-color-greenDark {
+  -fx-background-color: #005200 !important;
+}
+.bg-color-red {
+  -fx-background-color: #b91d47 !important;
+}
+.bg-color-yellow {
+  -fx-background-color: #ffc40d !important;
+}
+.bg-color-orange {
+  -fx-background-color: #e3a21a !important;
+}
+.bg-color-orangeDark {
+  -fx-background-color: #da532c !important;
+}
+.bg-color-pink {
+  -fx-background-color: #c3325f !important;
+}
+.bg-color-pinkDark {
+  -fx-background-color: #9f00a7 !important;
+}
+.bg-color-purple {
+  -fx-background-color: #603cba !important;
+}
+.bg-color-darken {
+  -fx-background-color: #1d1d1d !important;
+}
+.bg-color-white {
+  -fx-background-color: #ffffff !important;
+}
+.bg-color-grayDark {
+  -fx-background-color: #525252 !important;
+}
+.border-color-blue {
+  -fx-progress-color: #2d89ef !important;
+}
+.border-color-blueLight {
+  -fx-progress-color: #44a3aa !important;
+}
+.border-color-blueDark {
+  -fx-progress-color: #0a5ac2 !important;
+}
+.border-color-green {
+  -fx-progress-color: #00a300 !important;
+}
+.border-color-greenLight {
+  -fx-progress-color: #99b433 !important;
+}
+.border-color-greenDark {
+  -fx-progress-color: #005200 !important;
+}
+.border-color-red {
+  -fx-progress-color: #b91d47 !important;
+}
+.border-color-yellow {
+  -fx-progress-color: #ffc40d !important;
+}
+.border-color-orange {
+  -fx-progress-color: #e3a21a !important;
+}
+.border-color-orangeDark {
+  -fx-progress-color: #da532c !important;
+}
+.border-color-pink {
+  -fx-progress-color: #c3325f !important;
+}
+.border-color-pinkDark {
+  -fx-progress-color: #9f00a7 !important;
+}
+.border-color-purple {
+  -fx-progress-color: #603cba !important;
+}
+.border-color-darken {
+  -fx-progress-color: #1d1d1d !important;
+}
+.border-color-white {
+  -fx-progress-color: #ffffff !important;
+}
+.border-color-grayDark {
+  -fx-progress-color: #525252 !important;
+}
+.progress-color-blue {
+  -fx-progress-color: #2d89ef !important;
+}
+.progress-color-blueLight {
+  -fx-progress-color: #44a3aa !important;
+}
+.progress-color-blueDark {
+  -fx-progress-color: #0a5ac2 !important;
+}
+.progress-color-green {
+  -fx-progress-color: #00a300 !important;
+}
+.progress-color-greenLight {
+  -fx-progress-color: #99b433 !important;
+}
+.progress-color-greenDark {
+  -fx-progress-color: #005200 !important;
+}
+.progress-color-red {
+  -fx-progress-color: #b91d47 !important;
+}
+.progress-color-yellow {
+  -fx-progress-color: #ffc40d !important;
+}
+.progress-color-orange {
+  -fx-progress-color: #e3a21a !important;
+}
+.progress-color-orangeDark {
+  -fx-progress-color: #da532c !important;
+}
+.progress-color-pink {
+  -fx-progress-color: #c3325f !important;
+}
+.progress-color-pinkDark {
+  -fx-progress-color: #9f00a7 !important;
+}
+.progress-color-purple {
+  -fx-progress-color: #603cba !important;
+}
+.progress-color-darken {
+  -fx-progress-color: #1d1d1d !important;
+}
+.progress-color-white {
+  -fx-progress-color: #ffffff !important;
+}
+.progress-color-grayDark {
+  -fx-progress-color: #525252 !important;
+}
+
+/* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */
